@@ -1,4 +1,4 @@
-//kinesys 기본 출력.cpp
+//Nephael 기본 출력.cpp
 #include<iostream>
 using namespace std;
 
