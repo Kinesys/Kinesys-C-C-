@@ -1,4 +1,4 @@
-//kinesys cin(scanf).cpp
+//Nephael cin(scanf).cpp
 #include<iostream>
 using namespace std;
 
