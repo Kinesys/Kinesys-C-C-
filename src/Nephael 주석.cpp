@@ -1,4 +1,4 @@
-//kinesys 주석.cpp
+//Nephael 주석.cpp
 #include<iostream>
 using namespace std;
 //싱글 라인 주석
