@@ -1,4 +1,4 @@
-//Kinesys 주석.c
+//Nephael 주석.c
 #include<stdio.h>
 //싱글 라인 주석
 /*
