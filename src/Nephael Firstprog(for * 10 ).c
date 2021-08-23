@@ -1,4 +1,4 @@
-//Kinesys Firstprog(for * 10 ).c
+//Nephael Firstprog(for * 10 ).c
 #include<stdio.h>
 
 int main() {
