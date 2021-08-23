@@ -1,4 +1,4 @@
-//Kinesys Types.c
+//Nephael Types.c
 #include<stdio.h>
 
 int main() {
