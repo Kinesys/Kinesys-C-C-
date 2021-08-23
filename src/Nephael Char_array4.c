@@ -1,4 +1,4 @@
-//Kinesys Char_array4.c
+//Nephael Char_array4.c
 #include<stdio.h>
 #include<string.h>
 
