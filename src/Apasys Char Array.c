@@ -1,4 +1,4 @@
-//Nephael Char Array.c
+//Apasys Char Array.c
 #include<stdio.h>
 int main() {
     char str_a[5];
