@@ -1,4 +1,4 @@
-//Nephael Char_array4.c
+//Apasys Char_array4.c
 #include<stdio.h>
 #include<string.h>
 
