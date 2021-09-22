@@ -1,4 +1,4 @@
-//Nephael cin(scanf).cpp
+//Apasys cin(scanf).cpp
 #include<iostream>
 using namespace std;
 
