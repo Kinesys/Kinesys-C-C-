@@ -1,4 +1,4 @@
-//Nephael Types.c
+//Apasys Types.c
 #include<stdio.h>
 
 int main() {
