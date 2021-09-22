@@ -1,4 +1,4 @@
-//Nephael Scanf.c
+//Apasys Scanf.c
 #include<stdio.h>
 int main() {
     int i;
