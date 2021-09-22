@@ -1,4 +1,4 @@
-//Nephael Firstprog(for * 10 ).c
+//Apasys Firstprog(for * 10 ).c
 #include<stdio.h>
 
 int main() {
